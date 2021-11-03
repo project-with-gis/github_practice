@@ -16,8 +16,4 @@ if __name__ == '__main__':
     print("임아진")
     print("장영주")
     print("안녕하세요 이건 깃허브입니다.")
-    print("조민정")
-    print("remote")
-    print("merge 안하고")
-    print("???")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

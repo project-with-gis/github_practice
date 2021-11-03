@@ -14,7 +14,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print("브랜치 연습입니다")
     print("임아진 입니다")
-    print("장영주")
+    print("장영주 입니다.")
     print("remote")
     print("merge 안하고")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

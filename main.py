@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print("브랜치 연습입니다")
-    print("주연언니")
+    print("임아진")
+    print("장영주")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

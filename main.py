@@ -17,4 +17,5 @@ if __name__ == '__main__':
     print("장영주")
     print("안녕하세요 이건 깃허브입니다.")
     print("어떻게 될까")
+    print("리버트커밋")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
